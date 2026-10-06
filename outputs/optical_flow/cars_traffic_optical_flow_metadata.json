@@ -1,0 +1,25 @@
+{
+    "video_name": "cars_traffic",
+    "input_file": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\video_samples\\cars_traffic_30s.mp4",
+    "input_fps": 50.0,
+    "input_frame_count": 1500,
+    "input_resolution": [
+        1280,
+        720
+    ],
+    "input_duration_seconds": 30.0,
+    "processed_resolution": [
+        640,
+        360
+    ],
+    "frames_processed": 1499,
+    "optical_flow_method": "Farneback dense optical flow",
+    "mean_flow_magnitude": 0.3255462063659104,
+    "maximum_flow_magnitude": 24.386188507080078,
+    "mean_horizontal_motion": 0.16842333880253757,
+    "mean_vertical_motion": 0.24754651668938182,
+    "hsv_output": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\cars_traffic_optical_flow_hsv.mp4",
+    "vector_output": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\cars_traffic_optical_flow_vectors.mp4",
+    "sample_hsv_image": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\cars_traffic_flow_sample.jpg",
+    "sample_vector_image": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\cars_traffic_vector_sample.jpg"
+}

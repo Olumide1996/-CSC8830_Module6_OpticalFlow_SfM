@@ -1,0 +1,28 @@
+{
+    "image": "view1.jpeg",
+    "coordinate_system": "View 1 image pixel coordinates",
+    "corner_order": [
+        "top_left",
+        "top_right",
+        "bottom_right",
+        "bottom_left"
+    ],
+    "corners": {
+        "top_left": [
+            57,
+            227
+        ],
+        "top_right": [
+            723,
+            239
+        ],
+        "bottom_right": [
+            743,
+            754
+        ],
+        "bottom_left": [
+            42,
+            764
+        ]
+    }
+}

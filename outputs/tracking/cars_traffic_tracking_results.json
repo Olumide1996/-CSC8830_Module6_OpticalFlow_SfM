@@ -1,0 +1,31 @@
+{
+    "video_name": "cars_traffic",
+    "video_file": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\video_samples\\cars_traffic_30s.mp4",
+    "fps": 50.0,
+    "frame_count": 1500,
+    "resolution": [
+        1280,
+        720
+    ],
+    "selected_frame_t": 750,
+    "selected_frame_t_plus_1": 751,
+    "time_of_frame_t_seconds": 15.0,
+    "time_of_frame_t_plus_1_seconds": 15.02,
+    "feature_detector": "Shi-Tomasi goodFeaturesToTrack",
+    "tracker": "Lucas-Kanade pyramidal optical flow",
+    "dense_flow": "Farneback optical flow",
+    "bilinear_interpolation": true,
+    "detected_points": 20,
+    "successful_tracked_points": 20,
+    "inlier_threshold_pixels": 1.0,
+    "inlier_points": 20,
+    "outlier_points": 0,
+    "inlier_percentage": 100.0,
+    "mean_tracking_error_pixels": 0.048031982522220046,
+    "median_tracking_error_pixels": 0.04127981421243749,
+    "maximum_tracking_error_pixels": 0.1491957739055967,
+    "robust_mean_tracking_error_pixels": 0.048031982522220046,
+    "robust_median_tracking_error_pixels": 0.04127981421243749,
+    "csv_results": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\tracking\\cars_traffic_tracking_results.csv",
+    "comparison_image": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\tracking\\cars_traffic_tracking_comparison.png"
+}

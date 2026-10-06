@@ -1,0 +1,25 @@
+{
+    "video_name": "people_walking",
+    "input_file": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\video_samples\\people_walking_30s.mp4",
+    "input_fps": 29.97,
+    "input_frame_count": 899,
+    "input_resolution": [
+        1280,
+        720
+    ],
+    "input_duration_seconds": 29.996663329996665,
+    "processed_resolution": [
+        640,
+        360
+    ],
+    "frames_processed": 898,
+    "optical_flow_method": "Farneback dense optical flow",
+    "mean_flow_magnitude": 2.2336537971478663,
+    "maximum_flow_magnitude": 181.655517578125,
+    "mean_horizontal_motion": 1.7781884876196012,
+    "mean_vertical_motion": 0.8671786196899075,
+    "hsv_output": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\people_walking_optical_flow_hsv.mp4",
+    "vector_output": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\people_walking_optical_flow_vectors.mp4",
+    "sample_hsv_image": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\people_walking_flow_sample.jpg",
+    "sample_vector_image": "C:\\Users\\olumi\\OneDrive\\Documents\\GSU\\Classes\\Fall 2026\\Advanced Computer Vision\\Assignments\\CSC8830_Module6_OpticalFlow_SfM\\outputs\\optical_flow\\people_walking_vector_sample.jpg"
+}

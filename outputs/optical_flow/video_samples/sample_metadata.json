@@ -1,0 +1,60 @@
+{
+  "people_walking": {
+    "input_file": "data\\videos\\people_walking.mp4",
+    "output_file": "outputs\\optical_flow\\video_samples\\people_walking_30s.mp4",
+    "source_fps": 29.97002997002997,
+    "source_frame_count": 1331,
+    "source_resolution": [
+      1280,
+      720
+    ],
+    "source_duration_seconds": 44.411033333333336,
+    "selected_start_seconds": 13.0,
+    "selected_end_seconds": 43.0,
+    "requested_duration_seconds": 30.0,
+    "start_frame": 390,
+    "end_frame": 1289,
+    "saved_frame_count": 899,
+    "output_fps": 29.97,
+    "output_frame_count": 899,
+    "output_resolution": [
+      1280,
+      720
+    ],
+    "output_duration_seconds": 29.996663329996665,
+    "representative_frames": {
+      "start": "outputs\\optical_flow\\video_samples\\people_walking_start.jpg",
+      "middle": "outputs\\optical_flow\\video_samples\\people_walking_middle.jpg",
+      "end": "outputs\\optical_flow\\video_samples\\people_walking_end.jpg"
+    }
+  },
+  "cars_traffic": {
+    "input_file": "data\\videos\\cars_traffic.mp4",
+    "output_file": "outputs\\optical_flow\\video_samples\\cars_traffic_30s.mp4",
+    "source_fps": 50.0,
+    "source_frame_count": 3000,
+    "source_resolution": [
+      1280,
+      720
+    ],
+    "source_duration_seconds": 60.0,
+    "selected_start_seconds": 7.0,
+    "selected_end_seconds": 37.0,
+    "requested_duration_seconds": 30.0,
+    "start_frame": 350,
+    "end_frame": 1850,
+    "saved_frame_count": 1500,
+    "output_fps": 50.0,
+    "output_frame_count": 1500,
+    "output_resolution": [
+      1280,
+      720
+    ],
+    "output_duration_seconds": 30.0,
+    "representative_frames": {
+      "start": "outputs\\optical_flow\\video_samples\\cars_traffic_start.jpg",
+      "middle": "outputs\\optical_flow\\video_samples\\cars_traffic_middle.jpg",
+      "end": "outputs\\optical_flow\\video_samples\\cars_traffic_end.jpg"
+    }
+  }
+}

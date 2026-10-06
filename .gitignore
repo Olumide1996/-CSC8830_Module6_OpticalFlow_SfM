@@ -1,0 +1,50 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Large video files
+data/videos/*.mp4
+
+# Generated optical-flow videos
+outputs/optical_flow/**/*.mp4
+
+# Temporary files
+*.tmp
+*.log
+
+# Personal/local configuration
+.env
+# Superseded SFM development artifacts
+outputs/sfm/reconstructed_planar_points.csv
+outputs/sfm/reconstructed_planar_boundary.jpg
+outputs/sfm/camera_positions_3d.png
+outputs/sfm/camera_positions.csv
+outputs/sfm/sfm_camera_poses.json
+outputs/sfm/sfm_summary.json
+src/1sfm_pose_reconstruction.py
+src/sfm_pose_reconstruction.py
+# Superseded SFM artifacts
+outputs/sfm/camera_positions.csv
+outputs/sfm/reconstructed_planar_boundary.jpg

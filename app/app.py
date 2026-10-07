@@ -103,7 +103,7 @@ with flow_col1:
 
     people_flow_video = (
         OPTICAL_FLOW_DIR
-        / "people_walking_optical_flow_hsv.mp4"
+        / "people_walking_optical_flow_hsv_web.mp4"
     )
 
     show_video(people_flow_video)
@@ -130,7 +130,7 @@ with flow_col2:
 
     cars_flow_video = (
         OPTICAL_FLOW_DIR
-        / "cars_traffic_optical_flow_hsv.mp4"
+        / "cars_traffic_optical_flow_hsv_web.mp4"
     )
 
     show_video(cars_flow_video)
